@@ -1,0 +1,11 @@
+.DS_Store
+.build/
+.swiftpm/
+*.xcodeproj/
+Packages/
+xcuserdata/
+DerivedData/
+firebase-debug.log
+*-debug.log
+.claude/settings.local.json
+.claude/projects/
